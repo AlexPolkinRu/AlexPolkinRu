@@ -26,6 +26,10 @@
 - Отслужив без малого 23 года, я понял, что пора вернуться в разработку и плотно заниматься ей уже профессионально
 - Для восстановления старых знаний и получения новых, сейчас я учусь на курсе Нетологии "Java-разработчик с нуля"
 
+# Мои работы
+- Консольный тест на знание таблицы умножения на JAVA https://github.com/AlexPolkinRu/MultiplyTableTest
+
+
 <!---
 AlexPolkinRu/AlexPolkinRu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
