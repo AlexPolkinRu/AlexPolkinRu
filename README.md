@@ -5,7 +5,7 @@
 - Помимо игр я увлекался программированием на Basic для ZX-Spectrum (в возрасте 13 лет)
 - Много рисовал в Art Studio и Artist (ZX)
 - Музицировал в Wham The Music Box, ASC Sound Master (ZX)
-- Помогал отцу в написании и прохождении игр, придумал название Big Boys http://zxpress.ru/book_articles.php?id=329, http://speccy.info/Big_Boys
+- Помогал отцу в написании и прохождении игр, придумал название Big Boys http://zxpress.ru/book_articles.php?id=329, http://speccy.info/Big_Boys, https://vtrd.in/release.php?r=1fd1d5fc303dc17f23382d8fe14679e6
 - В школе программировал на MSX BASIC
 - Когда появился 386ой компьютер IBM PC с турбо режимом в 40 МГц, моим увлечением стало переустанавливать Windows 3.11 набором из 10ти дискет
 - После покупки платы Sound Blaster, увлёкся трекерной музыкой и много писал в Scream Tracker, Fast Tracker II и Impulse Tracker
