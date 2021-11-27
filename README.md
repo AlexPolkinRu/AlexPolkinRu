@@ -27,7 +27,7 @@
 - Для восстановления старых знаний и получения новых, сейчас я учусь на курсе Нетологии "Java-разработчик с нуля"
 
 # Мои работы
-- Система управления "Умным домом" для микроконтроллера на Си https://github.com/AlexPolkinRu/LolinSecurity 
+- Система управления "Умным домом" для микроконтроллера ESP8266 на Си https://github.com/AlexPolkinRu/LolinSecurity 
 - Консольный тест на знание таблицы умножения на Java https://github.com/AlexPolkinRu/MultiplyTableTest
 - Решения домашних заданий на курсе "Java-разработчик с нуля" Нетологии https://github.com/AlexPolkinRu/java-homeworks
 
