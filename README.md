@@ -29,7 +29,7 @@
 # Мои работы
 - [Система управления "Умным домом" для микроконтроллера ESP8266 на Си](https://github.com/AlexPolkinRu/LolinSecurity)
 - [Консольный тест на знание таблицы умножения на Java](https://github.com/AlexPolkinRu/MultiplyTableTest)
-- [Решения домашних заданий на курсе "Java-разработчик с нуля"](Нетологии https://github.com/AlexPolkinRu/java-homeworks)
+- [Решения домашних заданий на курсе "Java-разработчик с нуля" Нетологии](https://github.com/AlexPolkinRu/java-homeworks)
 
 <!---
 AlexPolkinRu/AlexPolkinRu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
