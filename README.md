@@ -28,7 +28,7 @@
 
 # Мои работы
 - [Решения домашних заданий курса "Java-разработчик с нуля" платформы Нетология](https://github.com/AlexPolkinRu/java-homeworks)
-- [Решения домашних заданий интерактивного онлайн-курса JavaRush](https://github.com/AlexPolkinRu/JavaRushSolution)
+- [Решения заданий онлайн-курса JavaRush](https://github.com/AlexPolkinRu/JavaRushSolution)
 - [Консольный тест на знание таблицы умножения на Java](https://github.com/AlexPolkinRu/MultiplyTableTest)
 - [Система управления "Умным домом" для микроконтроллера ESP8266 на Си](https://github.com/AlexPolkinRu/LolinSecurity)
 
