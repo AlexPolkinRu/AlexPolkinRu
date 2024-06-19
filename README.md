@@ -27,6 +27,7 @@
 - Для восстановления старых знаний и получения новых, успешно прошел курс [Нетологии](https://netology.ru) ["Java-разработчик с нуля"](https://netology.ru/programs/java-developer/) и получил [диплом](https://netology.ru/sharing/46b6cd3e0332e31f951b272ffc771eba?utm_source=social&utm_campaign=achievements)
 
 # Мои работы
+- [Дипломная работа "Облачное хранилище"](https://github.com/AlexPolkinRu/netology_cloud_storage_backend)
 - [Решения домашних заданий курса "Java-разработчик с нуля" платформы Нетология](https://github.com/AlexPolkinRu/java-homeworks)
 - [Решения заданий онлайн-курса JavaRush](https://github.com/AlexPolkinRu/JavaRushSolution)
 - [Консольный тест на знание таблицы умножения на Java](https://github.com/AlexPolkinRu/MultiplyTableTest)
